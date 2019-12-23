@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Aqwas/static/css/main.446dcc86.chunk.css",
+    "main.js": "/Aqwas/static/js/main.d47de4ed.chunk.js",
+    "main.js.map": "/Aqwas/static/js/main.d47de4ed.chunk.js.map",
+    "runtime-main.js": "/Aqwas/static/js/runtime-main.bfbe7f78.js",
+    "runtime-main.js.map": "/Aqwas/static/js/runtime-main.bfbe7f78.js.map",
+    "static/js/2.a409614b.chunk.js": "/Aqwas/static/js/2.a409614b.chunk.js",
+    "static/js/2.a409614b.chunk.js.map": "/Aqwas/static/js/2.a409614b.chunk.js.map",
+    "index.html": "/Aqwas/index.html",
+    "precache-manifest.b520db3c3a349a70c9f27230eeb5a2a8.js": "/Aqwas/precache-manifest.b520db3c3a349a70c9f27230eeb5a2a8.js",
+    "service-worker.js": "/Aqwas/service-worker.js",
+    "static/css/main.446dcc86.chunk.css.map": "/Aqwas/static/css/main.446dcc86.chunk.css.map",
+    "static/js/2.a409614b.chunk.js.LICENSE": "/Aqwas/static/js/2.a409614b.chunk.js.LICENSE",
+    "static/media/error.jpg": "/Aqwas/static/media/error.ef197752.jpg",
+    "static/media/map.png": "/Aqwas/static/media/map.9894060a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bfbe7f78.js",
+    "static/js/2.a409614b.chunk.js",
+    "static/css/main.446dcc86.chunk.css",
+    "static/js/main.d47de4ed.chunk.js"
+  ]
+}
